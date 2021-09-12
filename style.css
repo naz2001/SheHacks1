@@ -1,0 +1,22 @@
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body{
+    background-image: url('bg.jpg');
+    
+}
+header{
+    background-image: url('header.jpg');
+    color: beige;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 30px;
+}
+div{
+    color: beige;
+}
+h2{
+    color: rgb(216, 213, 213);
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+}
